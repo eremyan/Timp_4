@@ -1,0 +1,13 @@
+.codelite/*
+Makefile
+Timp_4_1/Debug/*
+Timp_4_2/Debug/*
+Doxyfile
+Timp_4_1/html/*
+Timp_4_1/latex/*
+Timp_4_2/html/*
+Timp_4_2/latex/*
+*.txt
+*.mk
+*.project
+*.workspace
